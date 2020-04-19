@@ -5,8 +5,8 @@ import (
 	"net"
 	"testing"
 
-	"omo-mod-reporter/processor"
-	"omo-mod-reporter/protocol"
+	"github.com/xtech-cloud/omo-mod-reporter/processor"
+	"github.com/xtech-cloud/omo-mod-reporter/protocol"
 )
 
 func handleReporterPing(_req *protocol.Request, _rsp *protocol.Response, _sender interface{}) {

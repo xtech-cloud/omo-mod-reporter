@@ -3,7 +3,7 @@ package processor
 import (
 	"encoding/json"
 
-	"omo-mod-reporter/protocol"
+	"github.com/xtech-cloud/omo-mod-reporter/protocol"
 )
 
 type Processor struct {
