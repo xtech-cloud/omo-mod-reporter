@@ -1,0 +1,4 @@
+github.com/pebbe/zmq4 v1.2.0 h1:SMCj4kvOpBvM97uWlv7QSlwjpCpYOXdiK8piMjGmzOs=
+github.com/pebbe/zmq4 v1.2.0/go.mod h1:7N4y5R18zBiu3l0vajMUWQgZyjv464prE8RCyBcmnZM=
+github.com/xtech-cloud/omo-mod-net v0.0.0-20180825114357-bd0c78dfaf27 h1:Y+9R6TVnlAIHixxDwqgAZkeNvU006Ao1Iaul1ymFM+c=
+github.com/xtech-cloud/omo-mod-net v0.0.0-20180825114357-bd0c78dfaf27/go.mod h1:n5C0TpjsAOzOmPnk9o6rMh835VN0nG+dtwuKWw00sfc=
